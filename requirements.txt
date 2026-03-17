@@ -1,0 +1,11 @@
+Django
+Django Rest Framework
+
+# Additional packages
+numpy
+pandas
+requests
+beautifulsoup4
+tensorflow
+torch
+# Include other dependencies as needed.
